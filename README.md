@@ -4,3 +4,5 @@ This file need trained model unit (Position_Model_4.pkl), using command: python 
 
 *RTPredictorGUI.py*
 This is a simple to use script, using command: python RTPredictorGUI.py
+
+Trained model can downlaod in:https://1drv.ms/u/c/16da86c3bcdbfbb9/EWGLvGXIEltFq8DwR4TpLZcB0J9j7lAVjk9v74v7R1rLEg?e=Urlb4J
